@@ -1,0 +1,14 @@
+其他OC与JS交互的好文章：
+1. Objective-C与JavaScript交互的那些事   http://www.jianshu.com/p/f896d73c670a
+2.Objective-C与JavaScript交互的那些事（续） http://www.jianshu.com/p/939db6215436
+3.辅助文章
+ http://mp.weixin.qq.com/s?__biz=MzIzMzA4NjA5Mw==&mid=214063688&idx=1&sn=903258ec2d3ae431b4d9ee55cb59ed89#rd
+主要内容：
+通过JSContext，有两种调用JS代码的方法：
+（1、直接调用JS代码
+（2、在ObjC中通过JSContext注入模型，然后调用模型的方法
+
+4.助力代码
+https://github.com/SunflowerGJ/UIWebView-TS_JavaScriptContext
+5.使用4产生APP被拒的可能解决方案:
+https://galileioo.github.io/posts/UIWebview-JS.html
